@@ -1,2 +1,2 @@
 # Tesi
-Load weights for SA with bio-bert
+Weights for SA with bio-bert and config.json
